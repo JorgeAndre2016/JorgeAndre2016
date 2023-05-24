@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **JorgeAndre2016/JorgeAndre2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <div>
+  <a href="https://github.com/JorgeAndre2016">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeAndre2016&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAndre2016&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+![Snake animation](https://github.com/JorgeAndre2016/JorgeAndre2016/blob/output/github-contribution-grid-snake.svg)
+ 
